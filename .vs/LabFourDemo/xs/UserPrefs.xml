@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B4CEBA24-34DE-D2D5-7EC3-9FCF3B3FF4D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GoNextScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpacemanControl.cs" Line="48" Column="30" />
+      <File FileName="Assets/Scripts/ShipControl.cs" Line="14" Column="38" />
+      <File FileName="Assets/Scripts/SceneOneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GoNextScene.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabFourDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GoNextScene.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af6d5867-67a0-4d78-82ab-ec57ba7a753f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
